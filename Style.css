@@ -1,0 +1,22 @@
+#headingOne{
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+
+
+#box{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+button{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    ;
+}
+
