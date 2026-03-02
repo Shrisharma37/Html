@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+div{
+    border: white solid 2px;
+    background-color: black;
+    height: 60px;
+}
+
+button{
+    background-color: #f08804;
+}
+
+span{
+    margin-right: 200px;
+}
